@@ -1,3 +1,6 @@
+Taught by Clement Jean (software engineer + Consultant)
+@Clement-Jean on GitHub
+
 Micro services need to agree on:
 
 - API for data exhcange
@@ -60,3 +63,6 @@ Why learn gRPC
 - many companies/OS projects are using it
 - "future of microservices"
 - microcontrollers/mobile to server APIs
+
+Code download:
+https://github.com/Clement-Jean/grpc-go-course
